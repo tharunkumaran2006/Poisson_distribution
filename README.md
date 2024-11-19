@@ -1,14 +1,14 @@
-# Fitting Poisson  distribution
-# DATE :
-# Aim : 
+# EX 02 : Fitting Poisson  distribution
+## DATE :
+## Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
 
-# Software required :  
+## Software required :  
 
 Python and Visual component tool
 
-# Theory:
+## Theory:
 
 The Poisson distribution is the discrete probability distribution of the number of events occurring in a given time period, given the average number of times the event occurs over that time period.
 
@@ -21,15 +21,15 @@ The Poisson distribution is the discrete probability distribution of the number 
 3. The rate of occurrence is constant.
 4. The probability of an event occurring is proportional to the length of the time period. 
  
-# Procedure :
+## Procedure :
 
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
 
-# Experiment :
+## Experiment :
 
 ![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
 
-# Program :
+## Program :
 ```
 #Developed by: THARUN V K
 #Register number: 212223230231
@@ -72,10 +72,10 @@ else:
 ```
  
 
-# Output : 
+## Output : 
 ![image](https://github.com/user-attachments/assets/cf4815b4-319d-48cd-9a6b-4b1f74c33119)
 
-# Results
+## Results
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
  
